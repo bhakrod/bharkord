@@ -1,0 +1,6 @@
+<Files "index.php">
+        Order Deny,Allow
+        Allow from localhost
+        Allow from 192.168.43.231
+        Allow from xxx.yyy.zzz.aaa
+</Files>
